@@ -1,4 +1,4 @@
-# AI2-project3
+# Sentiment-classifier-RNN
 
 ### Project description
 
